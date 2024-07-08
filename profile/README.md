@@ -2,8 +2,16 @@
 
 Alternative web project.
 
-Our website: [larana.tech](https://larana.tech)  
-Telegram channel: [@laranatech](https://t.me/laranatech)
+## Contacst
+
+**Website:** [larana.tech](https://larana.tech)  
+**Telegram channel:** [@laranatech](https://t.me/laranatech)  
+**Telegram chat:** [@laranatech_chat](https://t.me/laranatech_chat)  
+**X:** [@laranatech](https://x.com/laranatech)  
+**Reddit:** [r/laranatech](https://www.reddit.com/r/laranatech/)  
+**Instagram:** [@laranatech](https://www.instagram.com/laranatech)  
+**NPM:** [laranatech](https://www.npmjs.com/org/laranatech)  
+**PyPi:** in progress...
 
 ## Credits
 
