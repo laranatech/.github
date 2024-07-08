@@ -2,7 +2,8 @@
 
 Alternative web project.
 
-Our website: [larana.tech](https://larana.tech)
+Our website: [larana.tech](https://larana.tech)  
+Telegram channel: [@laranatech](https://t.me/laranatech)
 
 ## Credits
 
