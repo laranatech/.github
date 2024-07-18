@@ -2,6 +2,10 @@
 
 Alternative web project.
 
+## LEGACY version
+
+Larana once was an [RSSR framework](https://github.com/e-kucheriavyi/rssr).
+
 ## Contacst
 
 **Website:** [larana.tech](https://larana.tech)  
