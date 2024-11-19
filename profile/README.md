@@ -2,7 +2,7 @@
 
 Alternative web project.
 
-## Contact
+## Contacts
 
 **Website:** [larana.tech](https://larana.tech)  
 **Telegram channel:** [@laranatech](https://t.me/laranatech)  
